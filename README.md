@@ -5,9 +5,9 @@ Imagine a telecommunications provider has segmented its customer base by service
 The example focuses on using demographic data, such as region, age, and marital, to predict usage patterns.
 
 The target field, called **custcat**, has four possible values that correspond to the four customer groups, as follows:
-1- Basic Service
-2- E-Service
-3- Plus Service
-4- Total Service
+- 1- Basic Service
+- 2- E-Service
+- 3- Plus Service
+- 4- Total Service
 
 Our objective is to build a classifier, to predict the class of unknown cases. We will use a specific type of classification called K nearest neighbour.
